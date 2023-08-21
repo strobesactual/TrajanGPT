@@ -1,1 +1,4 @@
-I am trying to build a GPT to answer questions for me referencing documents contained in a Google Drive folder. I am using LlamaIndex to index the Google Drive
+#download and install the PaLM API Python library
+!pip install -q google-generativeai
+!pip install docx2txt
+!pip install pypdf
