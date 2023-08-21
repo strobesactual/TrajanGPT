@@ -1,0 +1,1 @@
+I am trying to build a GPT to answer questions for me referencing documents contained in a Google Drive folder. I am using LlamaIndex to index the Google Drive
